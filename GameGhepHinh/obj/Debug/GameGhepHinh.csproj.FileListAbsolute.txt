@@ -1,0 +1,11 @@
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\bin\Debug\GameGhepHinh.exe.config
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\bin\Debug\GameGhepHinh.exe
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\bin\Debug\GameGhepHinh.pdb
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.csproj.AssemblyReference.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.csproj.SuggestedBindingRedirects.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.Form1.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.Properties.Resources.resources
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.csproj.GenerateResource.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.csproj.CoreCompileInputs.cache
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.exe
+D:\Hoc Tap\HK7\Lập trình trong windows\GameGhepHinh\GameGhepHinh\obj\Debug\GameGhepHinh.pdb
